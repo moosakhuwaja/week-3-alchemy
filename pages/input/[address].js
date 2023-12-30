@@ -1,5 +1,5 @@
 import { getAddressType } from "../../utils/addressType";
-import Address from "../../components/address";
+import Address from "../../components/Address";
 import Block from "../../components/Block";
 import Wallet from "../../components/Wallet";
 const AddressPage = ({ address, addressType }) => {
